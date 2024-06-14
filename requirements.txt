@@ -1,0 +1,6 @@
+# Python 3.11.4 is recommended
+tensorflow==2.14
+keras==2.14.0
+scikit-learn==1.3.0
+xgboost==2.0.3
+pandas==1.5.3
